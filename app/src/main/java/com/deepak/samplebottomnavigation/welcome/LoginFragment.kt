@@ -1,0 +1,3 @@
+package com.deepak.samplebottomnavigation.welcome
+
+class LoginFragment
